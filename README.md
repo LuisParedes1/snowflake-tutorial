@@ -1,1 +1,3 @@
-# learning-snowflake
+# Learning-snowflake
+
+Integrating Snowflake with Git
