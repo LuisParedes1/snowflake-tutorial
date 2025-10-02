@@ -1,3 +1,9 @@
+# Snowflake
+
+The Snowflake Data Cloud is a cloud-based data warehousing platform that allows businesses to store and query data for analytical purposes.
+
+More info [here](https://mis-notas.notion.site/Snowflake-26a25f24dbe2803d914ce67aa57b35cc?source=copy_link)
+
 # Snowflake Tutorial
 
 [This](https://quickstarts.snowflake.com/guide/getting_started_with_snowflake/index.html#0
